@@ -1,0 +1,11 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating
+s1,MOVIE,3 Idiots,Rajkumar Hirani,Aamir Khan,India,01-01-2020,2009,PG-13
+s2,TV SHOW,Stranger Things,Unknown,Millie Bobby Brown,United States,15-07-2021,2016,TV-14
+s3,MOVIE,Inception,Christopher Nolan,Leonardo DiCaprio,United States,10-05-2019,2010,PG-13
+s4,MOVIE,Dangal,Nitesh Tiwari,Aamir Khan,India,20-03-2020,2016,PG
+s5,TV SHOW,Money Heist,Unknown,Alvaro Morte,Spain,05-09-2021,2017,TV-MA
+s6,MOVIE,Bahubali,S. S. Rajamouli,Prabhas,India,12-12-2018,2015,PG-13
+s7,TV SHOW,Friends,Unknown,Jennifer Aniston,United States,01-01-2018,1994,TV-14
+s8,MOVIE,Titanic,James Cameron,Leonardo DiCaprio,United States,11-11-2017,1997,PG-13
+s9,MOVIE,Avengers Endgame,Russo Brothers,Robert Downey Jr,United States,22-08-2020,2019,PG-13
+s10,TV SHOW,Sacred Games,Anurag Kashyap,Nawazuddin Siddiqui,India,10-07-2019,2018,TV-MA
