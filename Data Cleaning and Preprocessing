@@ -1,0 +1,7 @@
+Column Headers Cleaned: Converted all column names to lowercase and replaced spaces with underscores for consistency.
+Missing Values Handled: Filled null values in columns like director, cast, country with “Unknown” and removed rows with critical missing data (e.g., date_added).
+Duplicates Removed: Identified and removed duplicate rows to avoid redundancy.
+Data Types Fixed: Converted date_added to datetime format and ensured numeric fields are properly typed.
+Text Standardization: Cleaned and standardized text fields such as country names and categories for uniformity.
+Date Format Standardized: Ensured all date values follow a consistent format (dd-mm-yyyy).
+Data Consistency Checked: Verified values across columns to ensure accuracy and uniform structure.
